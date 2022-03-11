@@ -61,3 +61,13 @@ button {
   opacity: 30%;
 }
 
+/* Solution */
+
+.popup-modal {
+  transition: opacity 0.2s ease-in-out, top 0.5s ease-in-out;
+  top: 0;
+}
+
+.popup-modal.show {
+  top: 50%;
+}

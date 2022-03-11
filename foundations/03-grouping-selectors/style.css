@@ -1,0 +1,11 @@
+.elem1 {
+    background-color: black;
+    color: #FFF;
+}
+.elem2 {
+    background-color: #FF0;
+}
+.elem2, .elem1 {
+    font-size: 28px;
+    font-family: 'Helvetica','Times', 'sans-serif';
+}
